@@ -9,7 +9,7 @@ Esse arquivo serve para armazenar a página principal do responsável por essa c
 - currículo do usuário 
 - ...
 
-Um exemplo dessa página pode ser vista logo abaixo:
-[link](home.png)
+Um exemplo dessa página pode ser visto 
+[aqui](https://www.flyvictor.com/blog/)
 
  

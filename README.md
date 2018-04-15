@@ -1,4 +1,4 @@
-##HomePage:
+## HomePage:
 Esse arquivo serve para armazenar a página principal do responsável por essa conta do _github_.
 
 > Obs.: apesar de ainda não produzida, o ideal é que ela tenha os seguintes requisitos:

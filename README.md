@@ -1,5 +1,6 @@
-## HomePage
-Esse arquivo serve para armazenar a página principal do responsável por essa conta do _github_.
+## MyHomePage
+
+This project was make to host a web application that show my projects, contacts and a little about me.
 
 > Obs.: apesar de ainda não produzida, o ideal é que ela tenha os seguintes requisitos:
 - uma _home page_ para o usuário

@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # myPage
+=======
+## MyHomePage
+
+This project was make to host a web application that show my projects, contacts and a little about me.
+>>>>>>> 99990ff9ce93bc7fbdd183009051f52f591d46ce
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3.
 

@@ -1,0 +1,25 @@
+#body {
+    width: 70%;
+    margin: auto;
+    margin-top: 65px;
+    height: 100vh; /* test */
+    background: rgba(255, 255, 255, 0.85);
+}
+
+#header {
+    width: 100%;
+    position: absolute;
+}
+
+.contactsIcons {
+    width: 200px;
+    height: 40px;
+    position: fixed;
+    right: 10px;
+    bottom: 20px;
+}
+
+.contactsIcons i {
+    font-size: 40px;
+    margin: 0px 10px;
+}
